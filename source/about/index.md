@@ -2,7 +2,7 @@
 title: about
 date: 2020-05-11 20:07:18
 keywords: 关于
-description: 
+description: 一个无趣的人
 comments: false
 photos: https://cdn.jsdelivr.net/gh/Bugjin/cdn@1.0/img/banner/about.jpg
 ---
