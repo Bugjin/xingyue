@@ -59,11 +59,12 @@ bg:
 # 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
 bgclass: filter-dot
 
+notice: 此处是自动可爱贩卖机 24小时正常营业
 # startdash url, title, desc img
 startdash: 
   - {url: /theme-sakura/, title: Sakura, desc: 本站 hexo 主题, img: /img/startdash/sakura.md.png}
   - {url: http://space.bilibili.com/271849279, title: Bilibili, desc: 博主的b站视频, img: /img/startdash/bilibili.jpg}
-  - {url: /, title: xingyue的万事屋, desc: 嘿嘿嘿嗨, img: /img/startdash/wangshiwu.jpg}
+  - {url: /, title: xingyue的万事屋, desc: 嘿嘿嘿嘿, img: /img/startdash/wangshiwu.jpg}
 
 
 
